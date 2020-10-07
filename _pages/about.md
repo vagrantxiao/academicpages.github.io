@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yuanlong Xiao's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,13 +13,14 @@ University of Pennsylvania. I am doing my research under Prof. [André DeHon](ht
 
 Research Interest
 ======
-Currently, I mainly focused on accelerating FPGA compile time by overlay techniquues,
-like partial reconfiguration, Network-on-a-Chip overlay, RISC-V and High-Level Sythesis. 
+Currently, I mainly focus on accelerating FPGA compile time by partial reconfiguration, 
+Network-on-a-Chip overlay, RISC-V and High-Level sythesis. 
 
 Past Research
 ======
-I got my master degree in State Key Laboratory of ASIC & System, Fudan University.
-During that 3 years, I mainly focused on FPGA silicon layout design. 
+I received my master degree in Microelectronics from State Key Laboratory of ASIC & System, [Fudan University](https://www.fudan.edu.cn/en/),
+where I mainly focused on FPGA silicon layout design. I received my 
+Bachelor degree in Microelectronics from [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm). 
 
 
 For more info
